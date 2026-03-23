@@ -43,11 +43,8 @@ if (typeof window.Buffer === 'undefined') {
   
   // Array de possíveis caminhos para o script (fallback)
   const PAYNCH_SCRIPT_PATHS = [
-    'https://pay.paynch.app/order/paynch-connect.js',
-    'https://pay.paynch.app/js/paynch-connect.js',
-    'https://pay.paynch.app/paynch-connect.js',
-    '/js/paynch-connect.js',
-    '/js/paynch-connect.js'
+    'https://cdn.jsdelivr.net/gh/Paynch-Payments/teste@main/paynch-connect.js',
+    'https://pay.paynch.app/js/paynch-connect.js'
   ];
 
   // ===== OBTÉM DADOS DO SCRIPT TAG =====
