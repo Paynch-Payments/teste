@@ -626,7 +626,7 @@ const t = (key) => {
           
           walletInfo.innerHTML = `
             <div class="paynch-wallet">
-              <strong>✓ Carteira conectada</strong>
+              <strong>✓ Wallet connected</strong>
             </div>
           `;
           
