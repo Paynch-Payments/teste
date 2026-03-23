@@ -3,7 +3,7 @@
  * Versão: 2.3.0 (Com retry logic, fallback e suporte a Espanhol)
  * 
  * Uso:
- * <script src="https://pay.paynch.app/button33.js"
+ * <script src="https://cdn.jsdelivr.net/gh/Paynch-Payments/teste@main/button-v1.js"
  *         data-shop="0xE5fF9d546278a7CE0DF261EB85945Df2F0Dcc3c6"
  *         data-amount="15.00"
  *         data-order-id="pedido-123"
